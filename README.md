@@ -11,7 +11,7 @@ The sentiment_mod module is developed on the basis of a tutorial.
 
 Run result_sentiment.ipynb to save the results.
 
-Open twitter_start.ipynb file and run the code with your own credentials, for those credentials develop a twitter developer account and create an app through it. 
+Open twitter_s.ipynb file and run the code with your own credentials, for those credentials develop a twitter developer account and create an app through it. 
 
 ### Run it after completing the credentials
 
@@ -20,4 +20,4 @@ Open twitter_start.ipynb file and run the code with your own credentials, for th
 Python twitter_graph.py
 
 As a result, you will get a video shown in the repo.
-## Later, you can make changes in this to develop your webapp and NLP techniques
+## Later, you can make changes in this according to your own NLP problem.
