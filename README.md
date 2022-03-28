@@ -3,7 +3,7 @@
 ![Machine learning expert and Data Scientist](https://github.com/shahzaibhamid/Text-classification-webapp-with-streamlit/blob/main/sentiment-analysis.jpg)
 
 # The live results of this analysis:
-
+https://github.com/shahzaibhamid/Twitter-Sentiment-Analysis-with-NLTK/blob/main/twitter_img.JPG
 
 ## This repository contains text classification with the help of NLTK
 
